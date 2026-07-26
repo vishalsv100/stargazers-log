@@ -1,0 +1,23 @@
+[
+  {
+    "name": "github/docs",
+    "description": "The open-source repo for GitHub Docs.",
+    "url": "https://github.com/github/docs",
+    "language": "TypeScript",
+    "stars": 12800
+  },
+  {
+    "name": "microsoft/vscode",
+    "description": "Visual Studio Code, the code editor.",
+    "url": "https://github.com/microsoft/vscode",
+    "language": "TypeScript",
+    "stars": 167000
+  },
+  {
+    "name": "vercel/next.js",
+    "description": "The React framework for the web.",
+    "url": "https://github.com/vercel/next.js",
+    "language": "JavaScript",
+    "stars": 125000
+  }
+]
